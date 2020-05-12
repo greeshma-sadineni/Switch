@@ -1,0 +1,13 @@
+F:\.Net Programs\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+F:\.Net Programs\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+F:\.Net Programs\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+F:\.Net Programs\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+F:\.Net Programs\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+F:\.Net Programs\Switch\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+F:\.Net Programs\Switch\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache
