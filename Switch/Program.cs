@@ -17,10 +17,12 @@ namespace Switch
                 Console.WriteLine(" Notable");
             else if (num == 6)
                 Console.WriteLine("Good");
+             else if (num == 5)
+                Console.WriteLine("pass");
             else if (num == 0|| num == 1||num ==2 ||num == 3 ||num == 4)
                 Console.WriteLine("Fail");
             else
-                Console.WriteLine("Pass");
+                Console.WriteLine("No not exists");
 
 
 
